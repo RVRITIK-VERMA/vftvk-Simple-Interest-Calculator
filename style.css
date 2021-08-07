@@ -7,13 +7,15 @@ h1{color:gray;font-family: Verdana}
     
 }
 .maindiv {
+    margin-top:175px;
+    margin-left: 400px;
     background-color: white;
     color: black;
     width: 500px;
     padding: 20px;
     border-radius: 25px;
     text-align: center;
-    margin:auto;
+   
     font-weight:550;
 
 }
