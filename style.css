@@ -1,9 +1,10 @@
-body {background-color:black;font-family:arial;color:white;align:center}
+body {background-color:black;font-family:Arial ;color:white;align:center}
 h1{color:gray;font-family: Verdana}
 .childclass{
     margin: auto;
     padding-left: 100px;
     text-align: left;
+    
 }
 .maindiv {
     background-color: white;
@@ -13,6 +14,7 @@ h1{color:gray;font-family: Verdana}
     border-radius: 25px;
     text-align: center;
     margin:auto;
+    font-weight:550;
 
 }
 footer{
